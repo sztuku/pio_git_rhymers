@@ -19,10 +19,6 @@ public class DefaultCountingOutRhymer  {
         return total;
     }
 
-    public void setTotal(int a)
-    {
-        total=a;
-    }
 
 
     public void countIn(int in) {
