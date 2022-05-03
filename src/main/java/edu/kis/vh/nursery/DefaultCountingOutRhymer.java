@@ -30,6 +30,9 @@ public class DefaultCountingOutRhymer  {
         return total == getStartValue();
     }
 
+    /**
+     * @return  ZWRACA CZY TABLICA JEST PELNA
+     */
     public boolean isFull() {
         return total == getCAPACITY();
     }
